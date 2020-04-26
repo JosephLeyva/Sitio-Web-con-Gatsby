@@ -1,0 +1,12 @@
+{
+  "slug": "presencial",
+  "title": "Formación académica",
+  "description": "Formación académica, grados de estudio e instituciones a la que asisti",
+  "items": [
+    {
+      "name": "Universidad de Sonora",
+      "degree": "Licenciatura en Ciencias de la Computación",
+      "score": "94"
+    }
+  ]
+}

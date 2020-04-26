@@ -1,0 +1,105 @@
+{
+  "data": {
+  "email": "josealc1998@gmail.com",
+  "username": "josealc1998",
+  "certificates": [
+  {
+  "score": 9,
+  "code": "ab6deca5-3185-40f2-8af8-d46c6eea8d90",
+  "title": "Curso de introducción a la programación"
+  },
+  {
+  "score": 10,
+  "code": "490bb319-a349-446a-998b-0c300cd4488c",
+  "title": "Curso profesional de PHP"
+  }
+  ],
+  "articles": [],
+  "courses": [
+  {
+  "title": "Curso Profesional de JavaScript",
+  "progress": "46.0",
+  "url": "http://codigofacilito.com/courses/javascript-profesional"
+  },
+  {
+  "title": "JavaScript y el DOM",
+  "progress": "100.0",
+  "url": "http://codigofacilito.com/courses/javascript-dom"
+  },
+  {
+  "title": "Curso profesional de PHP",
+  "progress": "100.0",
+  "url": "http://codigofacilito.com/courses/php-profesional"
+  },
+  {
+  "title": "Curso de introducción a la programación",
+  "progress": "100.0",
+  "url": "http://codigofacilito.com/courses/introduccion"
+  },
+  {
+  "title": "Curso de introducción a los Algoritmos",
+  "progress": "11.0",
+  "url": "http://codigofacilito.com/courses/algoritmos"
+  },
+  {
+  "title": "Curso de Introducción a la Programación Nivel II",
+  "progress": "0.0",
+  "url": "http://codigofacilito.com/courses/fundamentos-programacion"
+  },
+  {
+  "title": "Curso de Programación Orientada a Objetos",
+  "progress": "0.0",
+  "url": "http://codigofacilito.com/courses/programacion-orientada-a-objetos"
+  },
+  {
+  "title": "Curso para crear un juego con Pygame",
+  "progress": "0.0",
+  "url": "http://codigofacilito.com/courses/pygame-videojuego"
+  },
+  {
+  "title": "Pruebas unitarias con PHP",
+  "progress": "0.0",
+  "url": "http://codigofacilito.com/courses/php-testing"
+  },
+  {
+  "title": "Curso Profesional de Python",
+  "progress": "99.0",
+  "url": "http://codigofacilito.com/courses/python-profesional"
+  },
+  {
+  "title": "Crea un sitio personal con Gatsby",
+  "progress": "100.0",
+  "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+  },
+  {
+  "title": "Curso Profesional de Android",
+  "progress": "34.0",
+  "url": "http://codigofacilito.com/courses/android-profesional"
+  },
+  {
+  "title": "Curso Profesional Desarrollo Web",
+  "progress": "97.0",
+  "url": "http://codigofacilito.com/courses/frontend-profesional"
+  }
+  ],
+  "finished_courses": [
+  {
+  "title": "JavaScript y el DOM",
+  "url": "http://codigofacilito.com/courses/javascript-dom"
+  },
+  {
+  "title": "Curso profesional de PHP",
+  "url": "http://codigofacilito.com/courses/php-profesional"
+  },
+  {
+  "title": "Curso de introducción a la programación",
+  "url": "http://codigofacilito.com/courses/introduccion"
+  },
+  {
+  "title": "Crea un sitio personal con Gatsby",
+  "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+  }
+  ]
+  },
+  "errors": []
+  }

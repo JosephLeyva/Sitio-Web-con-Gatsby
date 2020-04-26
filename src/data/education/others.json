@@ -1,0 +1,12 @@
+{
+  "slug": "others",
+  "title": "Otros logros académicos",
+  "description": "Talleres, diplomados y conferencias en las que he participado",
+  "items": [
+    {
+      "name": "Introducción a la Biotecnología con Programación",
+      "degree": "Asistente",
+      "score": "XX"
+    }
+  ]
+}

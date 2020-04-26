@@ -1,0 +1,15 @@
+{
+  "slug": "online",
+  "title": "Cursos en linea",
+  "description": "Cursos finalizados en plataformas de educación en internet",
+  "items": [
+    {
+      "name": "Curso de Programación desde Cero",
+      "url": "https://codigofacilito.com/courses/frontend-profesional"
+    },
+    {
+      "name": "Curso de Desarrollo Móvil con Kotlin",
+      "url": "https://www.udemy.com/course/la-biblia-de-nodejs/"
+    }
+  ]
+}
